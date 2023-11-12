@@ -101,9 +101,9 @@ const CustomInputField = props => {
             position: 'absolute',
             height: '75%',
             width: '100%',
-            backgroundColor: '#49adfa',
+            backgroundColor: '#30abf7',
             transform: [{rotate: '8deg'}],
-            borderRadius: 16,
+            borderRadius: 8,
             opacity: opacityFirst,
           }}
         />
@@ -114,9 +114,9 @@ const CustomInputField = props => {
             position: 'absolute',
             height: '75%',
             width: '100%',
-            backgroundColor: '#6bc6ff',
+            backgroundColor: '#83cdfb',
             transform: [{rotate: '5deg'}],
-            borderRadius: 16,
+            borderRadius: 8,
             opacity: opacitySecond,
           }}
         />
@@ -127,9 +127,9 @@ const CustomInputField = props => {
             position: 'absolute',
             height: '75%',
             width: '100%',
-            backgroundColor: '#93d4ff',
+            backgroundColor: '#c0e6ff',
             transform: [{rotate: '2deg'}],
-            borderRadius: 16,
+            borderRadius: 8,
             opacity: opacityThird,
           }}
         />
@@ -141,10 +141,10 @@ const CustomInputField = props => {
             start: 0,
             height: '75%',
             width: '100%',
-            backgroundColor: '#93d4ff',
+            backgroundColor: '#c0e6ff',
             transform: [{rotate: '5deg'}, {translateY: -22}],
-            borderTopStartRadius: 16,
-            borderTopEndRadius: 16,
+            borderTopStartRadius: 8,
+            borderTopEndRadius: 8,
             opacity: opacityFourth,
           }}
         />
@@ -170,7 +170,7 @@ const CustomInputField = props => {
           backgroundColor: '#fff',
           width: '97%',
           height: '75%',
-          borderRadius: 14,
+          borderRadius: 8,
           paddingHorizontal: 16,
           marginBottom: 7,
           color: '#34a2f6',
