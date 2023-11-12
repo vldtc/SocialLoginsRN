@@ -93,7 +93,10 @@ const CustomButton = props => {
       />
       <TouchableOpacity
         activeOpacity={1}
-        onPress={() => setIsPressed(true)}
+        onPress={() => {
+          setIsPressed(true);
+          props.onButtonPress();
+        }}
         style={{
           backgroundColor: '#fff',
           width: '97%',

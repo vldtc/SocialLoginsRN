@@ -154,8 +154,8 @@ const CustomInputField = props => {
           width: '100%',
           marginStart: 24,
           color: color,
-          fontSize: 16,
-          fontWeight: 200,
+          fontSize: 18,
+          fontWeight: 300,
         }}>
         {props.placeholder}
       </Animated.Text>
