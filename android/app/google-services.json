@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840569172955",
+    "project_id": "sociallogintutorial-7276b",
+    "storage_bucket": "sociallogintutorial-7276b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840569172955:android:c9c7a935f5fdfde47f2dfe",
+        "android_client_info": {
+          "package_name": "com.sociallogintutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCgNdm2slafx-eq5dkLI2Vas_CIXKq4GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
